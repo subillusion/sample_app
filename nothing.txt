@@ -1,1 +1,6 @@
 Nothing
+
+git add -A
+git stash
+git pull origin master
+git pop
